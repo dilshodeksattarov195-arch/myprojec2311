@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervecrypt",
+        "uuid": 7972950,
+        "checksum": "o6r49"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
